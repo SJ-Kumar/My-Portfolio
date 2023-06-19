@@ -8,14 +8,14 @@
     --font-semi: 600;
 }
 
-/*===== Colores =====*/
+
 :root
 {
     --first-color: #4070F4;
     --second-color: #0E2431;
 }
 
-/*===== Fuente y tipografia =====*/
+
 :root
 {
     --body-font: 'Poppins', sans-serif;
@@ -32,7 +32,6 @@
     }
 }
 
-/*===== Margenes =====*/
 :root
 {
     --mb-1: 0.5rem;
@@ -43,7 +42,6 @@
     --mb-6: 3rem;
 }
 
-/*===== z index =====*/
 :root
 {
     --z-back: -10;
@@ -86,7 +84,7 @@ img
 {
     max-width: 100%;
     height: auto;
-    display: block; // borra los espacios en blanco
+    display: block; 
 }
 
 /*===== CLASS CSS ===== */
