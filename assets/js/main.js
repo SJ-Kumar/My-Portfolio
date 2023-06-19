@@ -37,8 +37,8 @@ const sr = ScrollReveal(
 {
     origin: 'top',
     distance: '80px',
-    duration: 2000,
-    reset: true
+    duration: 1000,
+    reset: false
 });
 
 
@@ -63,5 +63,5 @@ sr.reveal('.skills__img',{delay: 600});
 
 
 /*SCROLL WORK*/
-sr.reveal('.work__img',{interval: 200}); 
+sr.reveal('.work__img',{interval: 600}); 
 
